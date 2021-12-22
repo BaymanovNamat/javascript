@@ -14,7 +14,7 @@ var lastName = "volkov";
 // magzhan = "namat";
 // namat = "magzhan";
 
-// assipment
+// assignment
 firstName = "vasya";
 // firstName = "petya";
 // age = "28"
